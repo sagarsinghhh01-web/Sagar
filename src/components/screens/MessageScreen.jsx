@@ -12,11 +12,11 @@ export default function MessageScreen() {
                 <h2
                     className="text-2xl md:text-3xl font-semibold text-primary text-center"
                 >
-                    A Special Message
+                    A Special Message for uhhh cutiee 😘
                 </h2>
 
                 <p className="text-primary/70 text-sm">
-                    Tap to open
+                    Tap to open💌
                 </p>
             </div>
 
@@ -27,7 +27,7 @@ export default function MessageScreen() {
                 <div className={`cover ${opened ? "opacity-0" : "opacity-100"} pointer-events-none z-10 bg-[#ffedea]!`} />
 
                 <div className="relative px-6 h-56 overflow-y-auto text-foreground">
-                    Happy Birthday, Cutiepie! You deserve all the happiness, love, and smiles in the world today and always. You have this special way of making everything around you brighter, your smile, your kindness, and the way you make people feel truly cared for. I hope your day is filled with laughter, surprises, and moments that make your heart happy. You’re truly one of a kind, and I just want you to know how special you are. Keep being the amazing person you are, spreading joy wherever you go. Wishing you endless happiness, success, and all the sweet things life has to offer. 💗
+                    Happy Birthday my princess babyyyy 🫂😭🧿! You deserve all the happiness, love, and smiles in the world today and always betuuuu. You have this special way of making everything around you brighter, your smile, your kindness, and the way you make people feel truly cared for😚😊. I hope your day is filled with laughter, surprises, and moments that make your heart 😊 happy. You’re truly one of a kind and I just want you to know how special you are for me babeeee 🫂💌.Keep being the amazing person you are, spreading joy wherever you go. Wishing you endless happiness, success, and all the sweet things life has to offer youuu . 💗i know English utna achaaa nhi h thodaa Google ka help liyaa 😅aapkee liyee haii bachaaaa enjoy youur day babyyyyy 😋🫂♾️ 
                 </div>
             </div>
         </div>
