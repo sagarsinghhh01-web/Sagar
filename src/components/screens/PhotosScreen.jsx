@@ -24,7 +24,7 @@ export default function PhotosScreen({ onNext }) {
         <h2
           className="text-2xl md:text-3xl font-semibold text-accent"
         >
-          Some Sweet Moments
+          Some Sweet Moments for uhhh😘😭
         </h2>
         <p className="text-sm text-accent/70 mt-1">(Swipe for more)</p>
       </div>
@@ -65,7 +65,7 @@ export default function PhotosScreen({ onNext }) {
         className="mt-4 flex justify-center"
       >
         <Button onClick={onNext} className="bg-[#ddd6ff] text-accent">
-          <Mail size={18} /> Open My Message
+          <Mail size={18} /> Open My Message betuuuu
         </Button>
       </div>
     </div >
