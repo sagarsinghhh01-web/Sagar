@@ -30,7 +30,7 @@ export default function LoaderScreen({ onDone }) {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 0.4, duration: 0.8 }}
                 className="my-4 text-xl md:text-2xl font-semibold text-foreground text-center">
-                Loading your birthday surprise...
+                Loading your birthday surprise babyy🫂❤️...
             </motion.p>
 
         </motion.div>
